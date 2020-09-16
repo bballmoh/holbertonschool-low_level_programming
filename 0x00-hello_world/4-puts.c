@@ -1,7 +1,8 @@
 #include <stdio.h>
 /*
-*comments
+*	main
 *
+*	return  always 0
 */
 int main (void)
 {
